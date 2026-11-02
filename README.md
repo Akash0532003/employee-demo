@@ -104,3 +104,8 @@ FOR GITHUB TESTING
 
 This feature will allow users to search employees
 by name, email, or department.
+
+## Employee Department Filter
+
+This feature allows users to filter employees
+by department such as IT, HR, and Finance.
